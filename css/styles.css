@@ -1,0 +1,38 @@
+.sidenav {
+  background-color: #efefef;
+  height: 100%;
+  width: 230px;
+  position: fixed;
+  z-index: 0;
+  top: 0;
+  left: 0;
+  float: left;
+  margin-right: 230px;
+  padding-left: 35px;
+
+}
+
+.logo {
+  width: 160px;
+padding-top: 35px;
+padding-bottom: 35px;
+}
+
+.topBar {
+   margin-left: 260px;
+   float: left;
+   width: 75%;
+ }
+
+.topList {
+  float: right;
+}
+
+.column {
+  float: right;
+  color: blue;
+}
+
+.box {
+  margin-left: 260px;
+}
